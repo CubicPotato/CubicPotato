@@ -20,7 +20,7 @@
 
 <p align="left">
   <!-- Modifie la liste après "i=" : https://github.com/tandpfun/skill-icons#icons-list -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode,linux&perline=11" alt="Mes compétences" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,js,ts,bash,html,css,react,astro,nodejs,postgres,linux,docker,kubernetes,githubactions,nginx,grafana,prometheus,git,github,vscode&perline=8" alt="Mes compétences" />
 </p>
 
 ---
