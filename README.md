@@ -12,7 +12,7 @@
 - Je travaille actuellement sur des petits projets autour de la **cybersécurité**, de l'automatisation et de la sécurisation des infrastructures. La plupart du temps je m'émerveille devant les dashboards.
 - J'approfondis mes connaissances en **DevSecOps, sécurité Cloud, Linux, Docker et CI/CD**. Quand je ne suis pas à m'arracher les cheveux sur Root-me.
 - Je cherche à collaborer sur des projets **open source liés à la cybersécurité, aux outils d'automatisation et à l'infrastructure** et fuir le plus loin possible Linkedin. 
-- Parlez-moi de **Python, Linux, Docker, sécurité des systèmes, réseaux, CI/CD et CTF** ou profite des dashboards. 
+- Parlez-moi de **Python, Linux, Docker, sécurité des systèmes, réseaux, CI/CD et CTF** ou profitez des dashboards. 
 
 ---
 
