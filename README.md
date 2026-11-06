@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Paul 👋</h1>
-<h3 align="center">Développeur passionné · [ton rôle / ta spécialité ici]</h3>
+<h3 align="center">Développeur passionné</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CubicPotato&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
@@ -9,11 +9,10 @@
 
 ### 🧑‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur **[nom du projet](https://github.com/CubicPotato/projet)**
-- 🌱 J'apprends en ce moment **[techno / sujet]**
-- 👯 Je cherche à collaborer sur **[type de projets]**
-- 💬 Parlez-moi de **[sujets qui te passionnent]**
-- ⚡ Fun fact : **[une anecdote sur toi]**
+- 🔭 Je travaille actuellement sur des projets autour de la **cybersécurité**, de l'automatisation et de la sécurisation des infrastructures.
+- 🌱 J'approfondis mes connaissances en **DevSecOps, sécurité Cloud, Linux, Docker et CI/CD**.
+- 👯 Je cherche à collaborer sur des projets **open source liés à la cybersécurité, aux outils d'automatisation et à l'infrastructure**.
+- 💬 Parlez-moi de **Python, Linux, Docker, sécurité des systèmes, réseaux, CI/CD et CTF**.
 
 ---
 
@@ -50,5 +49,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/paul-delarue-5aa2a33a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:paulledarue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://cubic-ctf.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://cubic-ctf.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" /></a>
 </p>
