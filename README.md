@@ -30,9 +30,10 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Projet 1](https://github.com/CubicPotato/projet-1) | Courte description du projet | `Python` `Flask` |
-| [Projet 2](https://github.com/CubicPotato/projet-2) | Courte description du projet | `React` `TypeScript` |
-| [Projet 3](https://github.com/CubicPotato/projet-3) | Courte description du projet | `Node.js` |
+| [DevSecOps Platform](https://github.com/CubicPotato/devsecops-platform) | Pipeline CI/CD sécurisé (Gitleaks, Semgrep, Trivy) qui bloque toute faille grave, puis déploie en GitOps sur un cluster k3s auto-hébergé, supervisé avec Prometheus et Grafana | `GitHub Actions` `Docker` `Kubernetes` `Argo CD` `Grafana` |
+| [CyberLab](https://github.com/CubicPotato/Cyberlab) | Laboratoire d'attaque et de défense conteneurisé : API Flask avec authentification derrière Nginx, PostgreSQL, SIEM Wazuh et une machine Kali pour attaquer | `Python` `Flask` `Docker` `Nginx` `Wazuh` |
+| [MCTS](https://github.com/CubicPotato/Recherche-arboressante-Monte-Carlo-MCTS-) | IA de jeu par recherche arborescente Monte-Carlo qui affronte d'autres joueurs sur un jeu « boîte noire », avec 10 ms de réflexion par coup et des joueurs dans des threads séparés | `C++` `CMake` `Multithreading` |
+| [Write Up](https://github.com/CubicPotato/write_up) | Base pour mon site web tutoriels et notes techniques sur l'administration système et le développement web | `Astro` `Starlight`|
 
 ---
 
