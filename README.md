@@ -1,5 +1,5 @@
-<h1 align="center">Salut, moi c'est Paul 👋</h1>
-<h3 align="center">Développeur passionné</h3>
+<h1 align="center">Salut, moi c'est Paul</h1>
+<h3 align="center">Patate passionnée par la cybersécurité, les réseaux et le DEVOPS. Ici j'experimente ce que je vois sur internet. Parfois utile mais souvent à la charge de mon homelab. </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CubicPotato&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
@@ -7,16 +7,16 @@
 
 ---
 
-### 🧑‍💻 À propos de moi
+### À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets autour de la **cybersécurité**, de l'automatisation et de la sécurisation des infrastructures.
-- 🌱 J'approfondis mes connaissances en **DevSecOps, sécurité Cloud, Linux, Docker et CI/CD**.
-- 👯 Je cherche à collaborer sur des projets **open source liés à la cybersécurité, aux outils d'automatisation et à l'infrastructure**.
-- 💬 Parlez-moi de **Python, Linux, Docker, sécurité des systèmes, réseaux, CI/CD et CTF**.
+- Je travaille actuellement sur des petits projets autour de la **cybersécurité**, de l'automatisation et de la sécurisation des infrastructures. La plupart du temps je m'émerveille devant les dashboards.
+- J'approfondis mes connaissances en **DevSecOps, sécurité Cloud, Linux, Docker et CI/CD**. Quand je ne suis pas à m'arracher les cheveux sur Root-me.
+- Je cherche à collaborer sur des projets **open source liés à la cybersécurité, aux outils d'automatisation et à l'infrastructure** et fuir le plus loin possible Linkedin. 
+- Parlez-moi de **Python, Linux, Docker, sécurité des systèmes, réseaux, CI/CD et CTF** ou profite des dashboards. 
 
 ---
 
-### 🛠️ Technologies & outils
+### Technologies & outils
 
 <p align="left">
   <!-- Modifie la liste après "i=" : https://github.com/tandpfun/skill-icons#icons-list -->
@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 Projets mis en avant
+### Projets mis en avant
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Statistiques GitHub
+### Statistiques GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CubicPotato&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paul-delarue-5aa2a33a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
