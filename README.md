@@ -39,11 +39,6 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CubicPotato&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubicPotato&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CubicPotato&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions" />
 </p>
 
@@ -52,7 +47,7 @@
 ### 📫 Me contacter
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[ton-profil]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[ton-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://[ton-site].com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/paul-delarue-5aa2a33a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:paulledarue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cubic-ctf.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
